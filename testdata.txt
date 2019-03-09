@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<ns0:gatewayRequest xmlns:ns0 = "http://xmlns.example.com/1463728467665">
+	<gatewayRequest>
+		<ns1:gatewayRequest xmlns:ns1 = "http://www.ril.com/schemas/RIL_HNH_AUTH_Gateway/Resources/Schemas/Synchronous/gatewayRequest.xsd">
+			<ns1:gateway>
+				<ns1:Data>aygFIwouXDIrkUKSYHmbptR5FD0fzre+2v6nKRRetIK4bPWvLbTDd29NcDpi5bEkOXSS0RSYNRVK9+/0Z3hz7/OhdIaIS5ljPcTo7NHllt8qbo1lP7htVf+D9SpkYpI95fMenTPilScLmU2amP4jSw7lxZkOOQuuC5F9uJ5KfzJUl7v8ElSVuyh/hs5VSJsWBAIdb0AkACvpOS85mp+TfD2Biqmsqoy1/CGfw1YUT7c6i6gxKT6kxZLot7azcCg5enup/DPMWq1GDA4f3sdieCXOYgNCO6e2Ot/ZBQ8df1+IMu9PYO5wVeXplNXYAV/UmDY55ZVt3gh6eXV0RYBfrqHcfi4DsNIRVG6Uosu3vExI6Za2syk1vBbZ0lePMlBUmKhQfw/Ge+BF6cXJ/rxBbjS4XFRIk0hwzqBPvtnHOdEQs2KoMo9N1WjtLcoHkufc</ns1:Data>
+				<ns1:Key>3A5CAFC65D7F19C85BBDF34B5D430781</ns1:Key>
+				<ns1:UserName>8879180443</ns1:UserName>
+			</ns1:gateway>
+		</ns1:gatewayRequest>
+	</gatewayRequest>
+</ns0:gatewayRequest>
